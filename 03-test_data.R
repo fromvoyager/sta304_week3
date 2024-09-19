@@ -1,5 +1,5 @@
 #### Preamble ####
-# Purpose: Tests to verify the simulated data is what we wanted.
+# Purpose: Tests to verify that the simulated data is what we wanted.
 # Author: Melissa Xiao
 # Date: 19 September 2024
 # Contact: melissa.xiao@mail.utoronto.ca
